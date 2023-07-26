@@ -1,3 +1,3 @@
 ## TinDog Preview
 
-![preview](./prev.PNG "preview")
+![preview](./prev.png "preview")
